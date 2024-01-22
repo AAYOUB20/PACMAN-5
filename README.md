@@ -1,4 +1,3 @@
 # pacman
 
-pacman gioco con 3 fantasmi , Blinky pinky e inky , e cibo e super cibo , e se vinici il gioco dopo mangire 40 cibo , live sono 5 
-
+pacman gioco con 3 fantasmi , Blinky pinky e inky , e cibo e super cibo , e se vinici il gioco dopo mangire 40 cibo , live sono 5 ,  fatto in c++  , include anche il audio 
